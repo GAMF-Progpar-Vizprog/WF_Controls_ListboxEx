@@ -1,5 +1,5 @@
 ﻿
-namespace ListboxEx
+namespace WF_Controls_ListboxEx
 {
 	partial class frmMain
 	{

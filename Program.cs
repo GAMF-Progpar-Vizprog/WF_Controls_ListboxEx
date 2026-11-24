@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ListboxEx
+namespace WF_Controls_ListboxEx
 {
 	static class Program
 	{

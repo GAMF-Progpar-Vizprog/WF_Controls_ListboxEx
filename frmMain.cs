@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace ListboxEx
+namespace WF_Controls_ListboxEx
 {
 	public partial class frmMain : Form
 	{
